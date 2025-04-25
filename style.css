@@ -282,7 +282,7 @@ body {
 }
 
 .project-card:hover .project-back {
-    transform: rotateY(360deg);
+    transform: rotateY(0deg);
 }
 
 /* Services Section */
